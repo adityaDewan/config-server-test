@@ -17,4 +17,4 @@ server:
   
 task-service:
   ribbon:
-    listOfServers: http://localhost:8083/,http://localhost:8085/
+    listOfServers: http://localhost:8083/
