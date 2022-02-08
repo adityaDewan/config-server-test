@@ -12,7 +12,3 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
-
-task-service:
-  ribbon:
-    listOfServers: http://localhost:8083/, http://localhost:8085/
